@@ -1,9 +1,11 @@
 # Python Projects
 A collection of python programs I have built while learning the language. 
 
-Program List: 
+All written in Python 3.6
 
-<b>Receipt Calculator:</b>
+# Program List: 
+
+# Receipt Calculator:
 
 A program that:
 
@@ -17,7 +19,7 @@ A program that:
   
     saves them to a file. 
 
-<b>Paycheck Calculator GUI:</b>
+# Paycheck Calculator GUI
 
 
 A program that opens a GUI and:
@@ -34,7 +36,7 @@ A program that opens a GUI and:
   
     includes conditional to pay x1.5 if user works over 40 hours
   
-<b>Receipt GUI:</b>
+# Receipt GUI:
     
     A program similar to the Reciept Calculator but it runs in a GUI
     
