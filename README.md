@@ -3,7 +3,7 @@ A collection of python programs I have built while learning the language.
 
 Program List: 
 
-Receipt Calculator:
+Receipt Calculator: \n
 A program that: 
   records  user inputs (items bought, their quantity, and their price)
   adds the input to a list 
